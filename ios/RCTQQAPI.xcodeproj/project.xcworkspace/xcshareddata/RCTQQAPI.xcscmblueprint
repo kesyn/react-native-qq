@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CC51C02CE5311B682E7B777A9E06E37B502EF246",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "553af5ff-1046-b14d-92b3-62e64dfcd063" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "553af5ff-1046-b14d-92b3-62e64dfcd063" : 9223372036854775807,
+    "CC51C02CE5311B682E7B777A9E06E37B502EF246" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B05BB177-7D82-4EBE-B87F-61A81BB3FEDD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "553af5ff-1046-b14d-92b3-62e64dfcd063" : "",
+    "CC51C02CE5311B682E7B777A9E06E37B502EF246" : "react-native-qq\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTQQAPI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RCTQQAPI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.kesyn.cn:8085\/svn\/suque",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "553af5ff-1046-b14d-92b3-62e64dfcd063"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kesyn\/react-native-qq",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC51C02CE5311B682E7B777A9E06E37B502EF246"
+    }
+  ]
+}
